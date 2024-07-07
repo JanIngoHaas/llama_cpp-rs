@@ -17,7 +17,7 @@ cudarc = { version = "0.10.0", features = ["cublaslt"], optional = true }
 link-cplusplus = "1.0.9"
 
 [build-dependencies]
-bindgen = "0.69.4"
+bindgen = "0.68.1"
 cc = { version = "1.0.83", features = ["parallel"] }
 once_cell = "1.19.0"
 
